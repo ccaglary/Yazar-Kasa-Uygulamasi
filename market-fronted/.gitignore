@@ -1,3 +1,6 @@
+# Büyük dosyalar ve release çıktıları
+release/
+*.exe
 # Logs
 logs
 *.log

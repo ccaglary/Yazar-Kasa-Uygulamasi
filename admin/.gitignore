@@ -1,3 +1,5 @@
+# Masaüstü uygulama çıktıları ve büyük dosyalar
+release/
 # Veritabanı yapılandırma dosyasını gizle
 src/main/resources/application.properties
 HELP.md
